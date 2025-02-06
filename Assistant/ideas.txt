@@ -1,0 +1,6 @@
+ADD IT TO PIP - JUST THE FRAMEWORK
+-> Add it to git
+   -> REQUIRED
+-> Add to PIP somehow
+   -> Add description
+      -> NOT REQUIRED
